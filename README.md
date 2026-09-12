@@ -51,12 +51,16 @@ aryan@toronto:~$ skillicons --stack
 <br>
 
 <div align="center">
-<img height="165em" src="https://github-readme-stats.vercel.app/api?username=aryanyaksh-art&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
-<img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aryanyaksh-art&layout=compact&theme=tokyonight&hide_border=true" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=aryanyaksh-art&theme=tokyonight&hide_border=true" />
 </div>
 
+<br>
+
 <div align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=aryanyaksh-art&theme=tokyonight&hide_border=true" />
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/aryanyaksh-art/aryanyaksh-art/output/github-contribution-grid-snake-dark.svg" />
+  <img alt="contribution snake" src="https://raw.githubusercontent.com/aryanyaksh-art/aryanyaksh-art/output/github-contribution-grid-snake.svg" />
+</picture>
 </div>
 
 <br>
