@@ -9,7 +9,7 @@
           /____/            /____/
 ```
 
-<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=16&pause=1200&color=A78BFA&center=true&vCenter=true&width=650&lines=into+AI+and+space+more+than+anything+else;testing+whether+LLM+fine-tunes+actually+learn;reproducing+cosmology+results+against+Planck+data;Greater+Toronto+Area" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=16&pause=1200&color=A78BFA&center=true&vCenter=true&width=650&lines=into+AI+and+space+more+than+anything+else;testing+whether+LLM+fine-tunes+learn+anything+new;reproducing+cosmology+results+against+Planck+data;Greater+Toronto+Area" alt="Typing SVG" />
 
 </div>
 
@@ -18,9 +18,11 @@
 ```console
 aryan@toronto:~$ cat whoami.md
 ```
-> Mostly into **AI** and **space** — testing whether LLM fine-tunes actually learn
-> anything new, and reproducing cosmology results against real Planck data.
-> Ship smaller practical tools on the side.
+> I test whether things are true. Right now that means checking whether LLM
+> fine-tunes learn anything new, and rerunning cosmology results against real
+> Planck data.
+>
+> Also built a 3D volleyball simulator. Coaches needed one.
 
 <br>
 
@@ -30,9 +32,9 @@ aryan@toronto:~$ ls -la ./pinned
 
 | repo | what it is |
 |---|---|
-| [`cmb-peak-height-cdm-sensitivity/`](https://github.com/aryanyaksh-art/cmb-peak-height-cdm-sensitivity) | 🛰️ space — reproducing the CMB acoustic-peak / dark-matter-density relationship with the CLASS Boltzmann code, checked against Planck 2018 |
-| [`did-it-even-learn/`](https://github.com/aryanyaksh-art/did-it-even-learn) | 🤖 AI — do community LLM fine-tunes actually beat their base model, or just memorize the benchmark? contamination-controlled, hundreds of matched pairs |
-| [`levelup-reader/`](https://github.com/aryanyaksh-art/levelup-reader) | 🤖 AI tooling — readability scorer (Flesch-Kincaid, SMOG, Gunning Fog) shipped as a free public MCP server |
+| [`cmb-peak-height-cdm-sensitivity/`](https://github.com/aryanyaksh-art/cmb-peak-height-cdm-sensitivity) | 🛰️ space: reproducing the CMB acoustic-peak / dark-matter-density relationship with the CLASS Boltzmann code, checked against Planck 2018 |
+| [`did-it-even-learn/`](https://github.com/aryanyaksh-art/did-it-even-learn) | 🤖 AI: do community LLM fine-tunes beat their base model, or just memorize the benchmark? Contamination-controlled, hundreds of matched pairs |
+| [`levelup-reader/`](https://github.com/aryanyaksh-art/levelup-reader) | 🤖 AI tooling: readability scorer (Flesch-Kincaid, SMOG, Gunning Fog) shipped as a free public MCP server |
 | [`volleyball-simulator/`](https://github.com/aryanyaksh-art/volleyball-simulator) | 3D rotation planner + play designer for volleyball coaches |
 
 <br>
@@ -70,7 +72,7 @@ aryan@toronto:~$ ./socials.sh
 <br>
 
 ```console
-aryan@toronto:~$ echo "thanks for reading — now go verify something yourself"
+aryan@toronto:~$ echo "thanks for reading, now go verify something yourself"
 ```
 
 <div align="center">
