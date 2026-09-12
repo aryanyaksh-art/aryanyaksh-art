@@ -46,6 +46,20 @@ aryan@toronto:~$ skillicons --stack
 
 <br>
 
+```console
+aryan@toronto:~$ ./socials.sh
+```
+<div align="center">
+
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/aryan.yaks/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aryan-yaksh/)
+[![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@aryanyaksh)
+[![Calendly](https://img.shields.io/badge/Calendly-006BFF?style=for-the-badge&logo=calendly&logoColor=white)](https://calendly.com/aryanyaksh)
+
+</div>
+
+<br>
+
 <div align="center">
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/aryanyaksh-art/aryanyaksh-art/output/dist/github-contribution-grid-snake-dark.svg" />
